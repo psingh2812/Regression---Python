@@ -1,5 +1,4 @@
-# datasciencecoursera
-Following regression models in python-
+# Regression models in python-
 
 1.Simple Linear Regression
 
